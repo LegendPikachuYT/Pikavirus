@@ -89,7 +89,7 @@ if b == "y":
 		[13] MORE INFO ON THESE VIRUS\n
 		[14] EXIT
 		 \n''',color = 'cyan'))
-		print(colored(''' ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ''',color = 'cyan'))
+		print(colored(''' ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ \n''',color = 'cyan'))
 		yu = colored('ENTER ONE OPTION FROM THE ABOVE LIST = ',color = 'green')
 		e = int(input(yu))
 		if e == int(1):
